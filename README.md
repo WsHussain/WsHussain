@@ -6,7 +6,7 @@
 
 ---
 
-👋 Hi there, I'm Waqas Hussain
+👋 Hi there, I'm Waqas
 
 I'm a software engineer and web developer with a passion for **elegant interfaces**, **aesthetic code**, and creating a welcoming, accessible tech environment.
 
