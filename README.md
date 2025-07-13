@@ -1,11 +1,7 @@
-<h1 align="center">Hi, I'm Waqas 💖</h1>
+<h1 align="center">
+  Hi there, I'm Waqas <img src="cute_hello.gif" alt="cute_hello.gif" width="50" style="vertical-align: middle;"/>
+</h1>
 
-<p align="center">
-  <a href="https://waqas-hu.live/">🌐 Website</a> • 
-  <a href="https://www.linkedin.com/in/waqas-hu/">💼 LinkedIn</a>
-</p>
-
-## Hi there! <img src="cute_hello.gif" alt="cute_hello.gif" width="50" style="vertical-align: middle;"/>
 
 I'm a software engineer and web developer with a passion for **elegant interfaces**, **aesthetic code**, and creating a welcoming, accessible tech environment.
 
@@ -13,6 +9,10 @@ My philosophy is simple: **create with style**, **grow with curiosity**, and **s
 I love turning ideas into beautiful, functional web apps—while adding my own visual touch 🎨
 
 Outside of tech, I'm into fashion, photography, and gym 🌸  
+
+<p align="center">
+  <a href="https://waqas-hu.live/">🌐 My Website</a> 
+</p>
 
 ---
 
