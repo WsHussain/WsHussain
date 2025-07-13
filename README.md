@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/waqas-hu/">💼 LinkedIn</a>
 </p>
 
-## Hi there! <img src="BearSigh.gif" alt="Bear sigh gif" width="50" style="vertical-align: middle;"/>
+## Hi there! <img src="cute_hello.gif" alt="cute_hello.gif" width="50" style="vertical-align: middle;"/>
 
 I'm a software engineer and web developer with a passion for **elegant interfaces**, **aesthetic code**, and creating a welcoming, accessible tech environment.
 
